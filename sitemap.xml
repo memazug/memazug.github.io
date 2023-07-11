@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/posts/template/</loc>
+    <lastmod>2022-04-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/about/</loc>
+    <lastmod>2023-07-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/posts/</loc>
+    <lastmod>2023-07-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/</loc>
+    <lastmod>2023-07-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/page-list/</loc>
+    <lastmod>2023-07-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/tags/</loc>
+    <lastmod>2023-07-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/tags/first/</loc>
+    <lastmod>2023-07-11</lastmod>
+  </url>
+</urlset>

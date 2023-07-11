@@ -1,0 +1,20 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Thisis Classic SEO template",
+  "language": "en",
+  "home_page_url": "https://thisis11ty.netlify.app/",
+  "feed_url": "https://example.com/feed/feed.json",
+  "description": "",
+  "author": {
+    "name": "thisis11ty",
+    "url": "https://eleventy.web.app/"
+  },
+  "items": [{
+      "id": "https://thisis11ty.netlify.app/posts/template/",
+      "url": "https://thisis11ty.netlify.app/posts/template/",
+      "title": "This is my template.",
+      "content_html": "<p>This is a display <a href=\"https://11ty.dev/\">theme template</a> that was built using the latest and modern eleventy 11ty site static generator, with a clean white design that will be better for the reader's eyes, and of course you can also download this theme on the github repo or you can also choose various themes on the eleventy website for various alternatives.</p>\n<p>Dan ya ini adalah tema display yang dibangun menggunakan <a href=\"https://11ty.dev/\">eleventy 11ty generator statis site terbaru</a> dan modern , dengan desain yang bersih warna putih akan lebih baik untuk mata pembaca , dan tentunya kalian juga bisa mengunduh tema ini pada repo github atau kamu juga bisa memilih berbagai tema di website eleventy untuk berbagai pilihan alternatif.</p>\n<p>If you need built powerfull website with eleventy 11ty so <a href=\"https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll\">hire me →</a></p>\n",
+      "date_published": "2022-04-15T00:00:00Z"
+    }
+  ]
+}

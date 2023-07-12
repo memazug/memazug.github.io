@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Thisis Classic SEO template</title>
+	<subtitle>Super SEO for built your site and blog with this is 11ty eleventy.</subtitle>
+	
+	<link href="https://thisis11ty.netlify.app/feed/feed.xml" rel="self"/>
+	<link href="https://thisis11ty.netlify.app/"/>
+	<updated>2023-09-04T00:00:00Z</updated>
+	<id>https://thisis11ty.netlify.app/</id>
+	<author>
+		<name>thisis11ty</name>
+		<email>axcora@gmail.com</email>
+	</author>
+	
+	<entry>
+		<title>September 2023 - An Overview of Microsoft Azure</title>
+		<link href="https://thisis11ty.netlify.app/posts/template/"/>
+		<updated>2023-09-04T00:00:00Z</updated>
+		<id>https://thisis11ty.netlify.app/posts/template/</id>
+		<content type="html">&lt;p&gt;TBA&lt;/p&gt;
+</content>
+	</entry>
+</feed>

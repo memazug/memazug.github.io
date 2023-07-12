@@ -5,7 +5,7 @@
 	
 	<link href="https://thisis11ty.netlify.app/feed/feed.xml" rel="self"/>
 	<link href="https://thisis11ty.netlify.app/"/>
-	<updated>2022-04-15T00:00:00Z</updated>
+	<updated>2023-09-04T00:00:00Z</updated>
 	<id>https://thisis11ty.netlify.app/</id>
 	<author>
 		<name>thisis11ty</name>
@@ -13,13 +13,11 @@
 	</author>
 	
 	<entry>
-		<title>This is my template.</title>
+		<title>September 2023 - An Overview of Microsoft Azure</title>
 		<link href="https://thisis11ty.netlify.app/posts/template/"/>
-		<updated>2022-04-15T00:00:00Z</updated>
+		<updated>2023-09-04T00:00:00Z</updated>
 		<id>https://thisis11ty.netlify.app/posts/template/</id>
-		<content type="html">&lt;p&gt;This is a display &lt;a href=&quot;https://11ty.dev/&quot;&gt;theme template&lt;/a&gt; that was built using the latest and modern eleventy 11ty site static generator, with a clean white design that will be better for the reader&#39;s eyes, and of course you can also download this theme on the github repo or you can also choose various themes on the eleventy website for various alternatives.&lt;/p&gt;
-&lt;p&gt;Dan ya ini adalah tema display yang dibangun menggunakan &lt;a href=&quot;https://11ty.dev/&quot;&gt;eleventy 11ty generator statis site terbaru&lt;/a&gt; dan modern , dengan desain yang bersih warna putih akan lebih baik untuk mata pembaca , dan tentunya kalian juga bisa mengunduh tema ini pada repo github atau kamu juga bisa memilih berbagai tema di website eleventy untuk berbagai pilihan alternatif.&lt;/p&gt;
-&lt;p&gt;If you need built powerfull website with eleventy 11ty so &lt;a href=&quot;https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll&quot;&gt;hire me →&lt;/a&gt;&lt;/p&gt;
+		<content type="html">&lt;p&gt;TBA&lt;/p&gt;
 </content>
 	</entry>
 </feed>

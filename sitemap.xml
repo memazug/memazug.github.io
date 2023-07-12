@@ -37,7 +37,17 @@
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/template/</loc>
+    <loc>https://thisis11ty.netlify.app/tags/getting-started/</loc>
+    <lastmod>2023-07-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/posts/0923/</loc>
     <lastmod>2023-09-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/posts/1023/</loc>
+    <lastmod>2023-10-02</lastmod>
   </url>
 </urlset>

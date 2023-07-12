@@ -10,8 +10,14 @@
     "url": "https://eleventy.web.app/"
   },
   "items": [{
-      "id": "https://thisis11ty.netlify.app/posts/template/",
-      "url": "https://thisis11ty.netlify.app/posts/template/",
+      "id": "https://thisis11ty.netlify.app/posts/1023/",
+      "url": "https://thisis11ty.netlify.app/posts/1023/",
+      "title": "October 2023 - Your First Azure Apps",
+      "content_html": "<p>TBA</p>\n",
+      "date_published": "2023-10-02T00:00:00Z"
+    },{
+      "id": "https://thisis11ty.netlify.app/posts/0923/",
+      "url": "https://thisis11ty.netlify.app/posts/0923/",
       "title": "September 2023 - An Overview of Microsoft Azure",
       "content_html": "<p>TBA</p>\n",
       "date_published": "2023-09-04T00:00:00Z"

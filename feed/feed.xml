@@ -5,7 +5,7 @@
 	
 	<link href="https://thisis11ty.netlify.app/feed/feed.xml" rel="self"/>
 	<link href="https://thisis11ty.netlify.app/"/>
-	<updated>2023-09-04T00:00:00Z</updated>
+	<updated>2023-10-02T00:00:00Z</updated>
 	<id>https://thisis11ty.netlify.app/</id>
 	<author>
 		<name>thisis11ty</name>
@@ -13,10 +13,19 @@
 	</author>
 	
 	<entry>
+		<title>October 2023 - Your First Azure Apps</title>
+		<link href="https://thisis11ty.netlify.app/posts/1023/"/>
+		<updated>2023-10-02T00:00:00Z</updated>
+		<id>https://thisis11ty.netlify.app/posts/1023/</id>
+		<content type="html">&lt;p&gt;TBA&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>September 2023 - An Overview of Microsoft Azure</title>
-		<link href="https://thisis11ty.netlify.app/posts/template/"/>
+		<link href="https://thisis11ty.netlify.app/posts/0923/"/>
 		<updated>2023-09-04T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/template/</id>
+		<id>https://thisis11ty.netlify.app/posts/0923/</id>
 		<content type="html">&lt;p&gt;TBA&lt;/p&gt;
 </content>
 	</entry>

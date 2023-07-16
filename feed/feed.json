@@ -1,8 +1,8 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Thisis Classic SEO template",
+  "title": "Memphis Azure User Group",
   "language": "en",
-  "home_page_url": "https://thisis11ty.netlify.app/",
+  "home_page_url": "https://memphisazure.com/",
   "feed_url": "https://example.com/feed/feed.json",
   "description": "",
   "author": {
@@ -10,17 +10,17 @@
     "url": "https://eleventy.web.app/"
   },
   "items": [{
-      "id": "https://thisis11ty.netlify.app/posts/1023/",
-      "url": "https://thisis11ty.netlify.app/posts/1023/",
-      "title": "October 2023 - Your First Azure Apps",
-      "content_html": "<p>TBA</p>\n",
-      "date_published": "2023-10-02T00:00:00Z"
+      "id": "https://memphisazure.com/posts/welcome/",
+      "url": "https://memphisazure.com/posts/welcome/",
+      "title": "Welcome to the Memphis Azure User Group",
+      "content_html": "<p>Welcome to the Memphis Azure User Group!</p>\n<p>Microsoft Azure is a leader in cloud computing services. Technology professionals who want to succeed in the industry should add Azure to their toolkit. The Memphis Azure User Group is a resource for those professionals to learn about Microsoft Azure, network with other technology professionals, and strengthen the Memphis technology community.</p>\n<p>Meetings will be posted on <a href=\"https://memphisazure.com/talks\">memphisazure.com</a>, on Meetup and promoted on Twitter at <a href=\"https://twitter.com/MemphisAzure\">@MemphisAzure</a>. Please use Meetup to RSVP for the meetings.</p>\n<p>If you are interested in speaking at or sponsoring the Memphis Azure User Group, or want to suggest a topic or speaker, please contact <a href=\"mailto:douglas@memphisazure.com\">douglas@memphisazure.com</a>.</p>\n<p>The Memphis Azure User Group maintains a Code of Conduct which can be found <a href=\"https://memphisazure.com/about/coc/\">here</a>.</p>\n",
+      "date_published": "2023-07-17T00:00:00Z"
     },{
-      "id": "https://thisis11ty.netlify.app/posts/0923/",
-      "url": "https://thisis11ty.netlify.app/posts/0923/",
-      "title": "September 2023 - An Overview of Microsoft Azure",
-      "content_html": "<p>TBA</p>\n",
-      "date_published": "2023-09-04T00:00:00Z"
+      "id": "https://memphisazure.com/posts/0923/",
+      "url": "https://memphisazure.com/posts/0923/",
+      "title": "September 2023 - Chad Green | Azure Unleashing the Power of Cloud Computing",
+      "content_html": "<p>The September 2023 meeting of the Memphis Azure User Group welcome Mr. Chad Green who will deliver <strong>Azure: Unleashing the Power of Cloud Computing</strong>. Please goto <a href=\"https://memphisazure.com/talks/0923\">https://memphisazure.com/talks/0923</a> to see the details and the link to Meetup to RSVP.</p>\n",
+      "date_published": "2023-07-17T00:00:00Z"
     }
   ]
 }

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Thisis Classic SEO template</title>
+	<title>Memphis Azure User Group</title>
 	<subtitle>Super SEO for built your site and blog with this is 11ty eleventy.</subtitle>
 	
-	<link href="https://thisis11ty.netlify.app/feed/feed.xml" rel="self"/>
-	<link href="https://thisis11ty.netlify.app/"/>
-	<updated>2023-10-02T00:00:00Z</updated>
+	<link href="https://memphisazure.com/feed/feed.xml" rel="self"/>
+	<link href="https://memphisazure.com/"/>
+	<updated>2023-07-17T00:00:00Z</updated>
 	<id>https://thisis11ty.netlify.app/</id>
 	<author>
 		<name>thisis11ty</name>
@@ -13,20 +13,24 @@
 	</author>
 	
 	<entry>
-		<title>October 2023 - Your First Azure Apps</title>
-		<link href="https://thisis11ty.netlify.app/posts/1023/"/>
-		<updated>2023-10-02T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/1023/</id>
-		<content type="html">&lt;p&gt;TBA&lt;/p&gt;
+		<title>Welcome to the Memphis Azure User Group</title>
+		<link href="https://memphisazure.com/posts/welcome/"/>
+		<updated>2023-07-17T00:00:00Z</updated>
+		<id>https://memphisazure.com/posts/welcome/</id>
+		<content type="html">&lt;p&gt;Welcome to the Memphis Azure User Group!&lt;/p&gt;
+&lt;p&gt;Microsoft Azure is a leader in cloud computing services. Technology professionals who want to succeed in the industry should add Azure to their toolkit. The Memphis Azure User Group is a resource for those professionals to learn about Microsoft Azure, network with other technology professionals, and strengthen the Memphis technology community.&lt;/p&gt;
+&lt;p&gt;Meetings will be posted on &lt;a href=&quot;https://memphisazure.com/talks&quot;&gt;memphisazure.com&lt;/a&gt;, on Meetup and promoted on Twitter at &lt;a href=&quot;https://twitter.com/MemphisAzure&quot;&gt;@MemphisAzure&lt;/a&gt;. Please use Meetup to RSVP for the meetings.&lt;/p&gt;
+&lt;p&gt;If you are interested in speaking at or sponsoring the Memphis Azure User Group, or want to suggest a topic or speaker, please contact &lt;a href=&quot;mailto:douglas@memphisazure.com&quot;&gt;douglas@memphisazure.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Memphis Azure User Group maintains a Code of Conduct which can be found &lt;a href=&quot;https://memphisazure.com/about/coc/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>September 2023 - An Overview of Microsoft Azure</title>
-		<link href="https://thisis11ty.netlify.app/posts/0923/"/>
-		<updated>2023-09-04T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/0923/</id>
-		<content type="html">&lt;p&gt;TBA&lt;/p&gt;
+		<title>September 2023 - Chad Green | Azure Unleashing the Power of Cloud Computing</title>
+		<link href="https://memphisazure.com/posts/0923/"/>
+		<updated>2023-07-17T00:00:00Z</updated>
+		<id>https://memphisazure.com/posts/0923/</id>
+		<content type="html">&lt;p&gt;The September 2023 meeting of the Memphis Azure User Group welcome Mr. Chad Green who will deliver &lt;strong&gt;Azure: Unleashing the Power of Cloud Computing&lt;/strong&gt;. Please goto &lt;a href=&quot;https://memphisazure.com/talks/0923&quot;&gt;https://memphisazure.com/talks/0923&lt;/a&gt; to see the details and the link to Meetup to RSVP.&lt;/p&gt;
 </content>
 	</entry>
 </feed>

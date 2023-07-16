@@ -2,57 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://thisis11ty.netlify.app/about/</loc>
+    <loc>https://memphisazure.com/about/</loc>
     <lastmod>2023-07-11</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/</loc>
+    <loc>https://memphisazure.com/posts/</loc>
     <lastmod>2023-07-11</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/</loc>
+    <loc>https://memphisazure.com/</loc>
     <lastmod>2023-07-11</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/page-list/</loc>
+    <loc>https://memphisazure.com/page-list/</loc>
     <lastmod>2023-07-11</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/</loc>
+    <loc>https://memphisazure.com/tags/</loc>
     <lastmod>2023-07-11</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/meetup/</loc>
+    <loc>https://memphisazure.com/tags/meetup/</loc>
     <lastmod>2023-07-11</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/overview/</loc>
+    <loc>https://memphisazure.com/tags/overview/</loc>
     <lastmod>2023-07-11</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/getting-started/</loc>
-    <lastmod>2023-07-11</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://thisis11ty.netlify.app/about/coc/</loc>
+    <loc>https://memphisazure.com/about/coc/</loc>
     <lastmod>2023-07-12</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/0923/</loc>
-    <lastmod>2023-09-04</lastmod>
+    <loc>https://memphisazure.com/talks/</loc>
+    <lastmod>2023-07-14</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/1023/</loc>
-    <lastmod>2023-10-02</lastmod>
+    <loc>https://memphisazure.com/posts/0923/</loc>
+    <lastmod>2023-07-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memphisazure.com/posts/welcome/</loc>
+    <lastmod>2023-07-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memphisazure.com/talks/0923/</loc>
+    <lastmod>2023-07-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memphisazure.com/talks/1023/</loc>
+    <lastmod>2023-07-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://memphisazure.com/talks/1123/</loc>
+    <lastmod>2023-07-17</lastmod>
   </url>
 </urlset>
